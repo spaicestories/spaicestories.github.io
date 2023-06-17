@@ -1,6 +1,6 @@
-name: My first blog
-title: The name of your blog
-description: A description for your blog.
+name: spaicestories
+title: Spicy and Spatial stories about my personal journey.
+description: Sometimes I write a lot. Most of what I write I deem deeply personal, but sometimes I feel there are things I could share with the world. The content on this site is that type of content.
 github: [metadata]
 markdown: kramdown
 google_analytics: UA-XXXXXXXXX-1
